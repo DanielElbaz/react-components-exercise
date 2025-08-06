@@ -1,5 +1,5 @@
 import React from 'react'
 
-const NavBar = () => {}
+const NavBar = () => <div>Navabar Component</div>
 
 export default NavBar
